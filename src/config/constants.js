@@ -2,9 +2,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 export const BLOCKED_NUMBERS = [
-    '3164312708',
-    '3345445687',
-    '3494889830'
+    'OWN NUMBERS',
 ];
 
 export const API_CONFIG = {
