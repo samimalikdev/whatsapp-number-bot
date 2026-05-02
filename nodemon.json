@@ -1,0 +1,4 @@
+{
+  "watch": ["."],
+  "ignore": ["auth_info", "logs", "sessions", "node_modules"]
+}
