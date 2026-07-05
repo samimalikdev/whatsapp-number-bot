@@ -136,6 +136,10 @@ http://localhost:3000/qr
   <p><i>Phone number lookup, CNIC search, recursive results and rate limiting — all in action.</i></p>
 </div>
 
+<p align="center">
+  <img src="wt.png" width="100%" alt="App 1"/>
+</p>
+
 ---
 
 ## License
